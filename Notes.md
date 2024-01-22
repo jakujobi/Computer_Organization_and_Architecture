@@ -68,4 +68,44 @@ Instruction Set Architecture (ISA)
 ### Abstractions
 - Abstraction helps us deal with complexity
     - hide lower level detail
-  - 
+
+## Other
+- CPU Time: (Not going to ask us to calculate it, but remember the formula)
+- Clock Time
+- Clock Speed
+- Clock Cycle
+- Frequency
+  By decreasing the time per clock cycle, you increase the performance
+- ```Homework```
+- ## On the Exam
+- There will be a question like that of slide 37, Chapter 1, Computer Abstractions and Technology
+- It is about calculating CPU Time and trying to make a computer complete a work in a short time
+- Answers on page 37 and 38
+
+## CPI Examples
+- Code Sequences
+- CPI means Clock Cycles Per Instruction
+- IC = Number of instructions or instruction count
+- Will be given in the homework and textbook
+- Check for formulas
+
+## Performance Summary
+CPU Time = (Instruction Count) * (CPI) * (Time per clock cycle)
+
+
+- Algorithm - Affects IC, possibly CPI
+  - Quick sort uses more instructions that bubble sort
+- Programming language - Affects IC, CPI
+We will focus on the abov
+- Compiler: affects IC, CPI
+- Instruction Set Architecture: affects IC, CPI, T
+
+- Processor
+- Memory system
+- I/o system (including OS)
+- Application software
+- System software
+- Hardware
+
+
+### Reducing Power
